@@ -1,1 +1,24 @@
 /* your code */
+.table{
+	border:2px solid blue;
+	width:700px;
+	height:200px;
+}
+.thead{
+	width:20px;
+	height:30px;
+	background-color:green;
+	border-collapse:collapse;
+	
+	
+}
+.tr-2{
+	width:15px;
+	height:20px;
+	background-color:whitesmoke;
+}
+.tr-4{
+	width:15px;
+	height:20px;
+	background-color:whitesmoke;
+}
